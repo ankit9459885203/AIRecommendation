@@ -11,3 +11,7 @@
 "DURATION":  3Oth March.2025  to  30th.june.2025
 
 "MENTOR": NEELA SANTOSH
+
+
+
+about - Building a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences.  
