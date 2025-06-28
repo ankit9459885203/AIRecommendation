@@ -14,4 +14,4 @@
 
 
 
-about - Building a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences.  
+About - Building a recommendation system using Java and libraries like Apache Mahout to suggest products or content based on user preferences.  
